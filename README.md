@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm AminaStudent</h1>
 <h3 align="center">Passionate about the web</h3>
 
+<!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aminastudent" alt="aminastudent" /></a> </p>
+-->
 
 - 🌱 I’m currently learning **HTML, CSS JavaScript et Python**
 
