@@ -5,7 +5,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aminastudent" alt="aminastudent" /></a> </p>
 -->
 
-- 🌱 I’m currently learning **HTML, CSS JavaScript et Python**
+- 🌱 I’m actually learning **Python** to be a **Developper**
 
 - 📫 How to reach me **mespensees22@gmail.com**
 
