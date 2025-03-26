@@ -5,9 +5,9 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aminastudent" alt="aminastudent" /></a> </p>
 -->
 
-- 🌱 I’m actually a student learning **Python** to be a **Developper**
+- 🌱 I’m actually a student in **Computer Science** and I work on personal projects to be a **Developper**
 
-- 📫 How to reach me **mespensees22@gmail.com**
+- 📫 How to reach me **aminapprocontact@gmail.com**
 
 - ⚡ Fun fact **I hope you'll have some fun here**
 
