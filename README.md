@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm AminaStudent</h1>
 <h3 align="center">Passionate about learning, building, and pushing my limits</h3>
 
-- 🌱 I’m currently a **Computer Science student**, learning and working on personal projects to become a **skilled developer**  
-
-- 🚀 I’m taking on the **100-day coding challenge** to build my own **productivity app: Synapse Notes**  
+- 🌱 I’m currently a **Computer Science student**, learning and working on personal projects to become a **skilled developer**
 
 - 📱 Currently learning **Flutter** to develop mobile applications  
 
