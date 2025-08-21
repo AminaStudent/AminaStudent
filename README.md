@@ -5,7 +5,7 @@
 
 - 📱 Currently learning **Flutter** to develop mobile applications  
 
-- 🎯 My goal: To create an app that merges **efficiency, simplicity, and advanced note-linking**  
+- 🎯 My goal: To create an app that merges **efficiency, simplicity, and productivity**  
 
 - 🧠 I love exploring **neuroscience, productivity, and the science of learning**  
 
